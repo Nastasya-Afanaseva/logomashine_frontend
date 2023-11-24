@@ -91,7 +91,7 @@ section{
     width: 445px;
 }
 .offer{
-    width: 490px;
+    width: 550px;
 }
 .offer-text > span{
     font-weight: 600;
@@ -132,6 +132,7 @@ section{
 }
 .block-title{
     margin-bottom: 17px;
+    font-weight: 700;
 }
 
 /*list-section*/
@@ -151,7 +152,7 @@ section{
     font-size: 30px;
 }
 .list-title{
-    margin-bottom: 7px;
+    margin-bottom: -1px;
     display: flex;
     align-items: center;
 }
