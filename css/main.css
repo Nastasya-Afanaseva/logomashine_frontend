@@ -198,14 +198,16 @@ section{
     margin-bottom: 7px;
 }
 .footer-menu-list{
+    display: flex;
     flex-direction: column;
     gap: 7px;
-    height: 40px;
+    height: 43px;
     flex-wrap: wrap;
     width: 246px;
     align-content: space-between;
     margin-right: 374px;
 }
+
 .footer-logo{
     margin-right: 190px;
 }
